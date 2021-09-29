@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\HerenciaTarea\obj\Debug\HerenciaTarea.Form1.resources
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\HerenciaTarea\obj\Debug\HerenciaTarea.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\HerenciaTarea\obj\Debug\HerenciaTarea.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\HerenciaTarea\obj\Debug\HerenciaTarea.csproj.CoreCompileInputs.cache
